@@ -1,6 +1,6 @@
 # 🔍 Solar Panel Defect Detection using Deep Learning
 
-This project aims to detect various types of defects in solar panels using a Convolutional Neural Network (CNN) model. The app provides predictions and probabilities for each defect type through a user-friendly **Streamlit** web interface.
+This project aims to detect various types of defects in solar panels using **ResNet50** Convolutional Neural Network (CNN) model. The app provides predictions and probabilities for each defect type through a user-friendly **Streamlit** web interface.
 
 ---
 
